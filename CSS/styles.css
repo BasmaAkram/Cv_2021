@@ -1,0 +1,38 @@
+h1 {
+  color: #0d134b;
+  font-size: 50px;
+}
+h3 {
+  color: #1e2927;
+  font-size: 30px;
+}
+
+/************ Class selectors **********/
+.Skills {
+  background-color: grey;
+}
+.image2 {
+  width: 25%;
+}
+.image1 {
+  width: 15%;
+}
+.image3 {
+  width: 20%;
+}
+.image4 {
+  width: 20%;
+}
+.image5 {
+  width: 20%;
+}
+.image:hover {
+  background-color: gold;
+}
+.circular {
+  border-radius: 10%;
+  background-color: white;
+}
+.Languages {
+  background-color: grey;
+}
